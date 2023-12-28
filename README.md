@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # Projects
 
 ##  [Multi-Core (AC) Magnetic Field Simulation](https://github.com/tecamenz/MCMFS)
